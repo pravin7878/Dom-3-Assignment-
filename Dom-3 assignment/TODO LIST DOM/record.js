@@ -1,9 +1,4 @@
-// let heading = document.getElementById('head')
-//   let button = document.getElementById('btn')
-//   button.addEventListener('click',function(){
-//     heading.innerText = "i am a heading"
-    // console.log(heading)
-//   })
+
 let myform = document.querySelector('form');
 let inptask = document.getElementById('task')
 let priority = document.getElementById('priority');
